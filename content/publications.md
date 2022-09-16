@@ -9,7 +9,7 @@ author = "Yenson Lau"
 
 * Amy Sui, Junfeng Wang, {{< underline "Yenson Lau" >}}, Brendan Ross, Jesse Cresswell. **Find Your Friends: Personalized Federated Learning with the Right Collaborators**. In submission.
 
-* {{< underline "Yenson Lau" >}}, Saba Zuberi, Jahir Gutierrez. **Drug repurposing for Leishmaniasis using a hyperbolic graph neural network approach**. In submission.
+* {{< underline "Yenson Lau" >}}, Saba Zuberi, Jahir Gutierrez. **Drug Repurposing for Leishmaniasis with Hyperbolic Graph Neural Networks**. In submission.
 
 * {{< underline "Yenson Lau" >}}, Qing Qu, Han-Wen Kuo, Pengcheng Zhou, Yuqian Zhang, and John Wright. **Short and Sparse Deconvolution --- A Geometric Approach.** In *International Conference of Learning Representations (ICLR)*, 2020. [[pdf](https://arxiv.org/abs/1908.10959)]
 
