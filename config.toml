@@ -14,7 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Yenson Lau"
-  info = "ML Research, Engineering, NLP"
+  info = "ML Research and Engineering, NLP"
   description = "Yenson's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "/images/avatar.jpg"
