@@ -1,0 +1,78 @@
+baseurl = "https://yenson-lau.github.io"
+title = "Yenson Lau"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Yenson Lau"
+  info = "ML Research, Engineering, NLP"
+  description = "Yenson's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "/images/avatar_edited.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  katex = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  customCSS = []
+  customSCSS = []
+  customJS = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/yenson-lau"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/yensonlau/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/yenson_lau"
+
+# Menu links
+[[menu.main]]
+  name = "About Me"
+  weight = 1
+  url = "about/"
+# [[menu.main]]
+#   name = "Blog"
+#   weight = 2
+#   url  = "posts/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url  = "projects/"
+[[menu.main]]
+  name = "Publications"
+  weight = 4
+  url  = "publications/"
