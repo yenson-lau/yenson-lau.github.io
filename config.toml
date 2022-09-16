@@ -33,7 +33,7 @@ disqusShortname = "yourdiscussshortname"
   hidecolorschemetoggle = false
 
   customCSS = []
-  customSCSS = []
+  customSCSS = ["scss/remove-transition.scss"]
   customJS = []
 
 [taxonomies]
