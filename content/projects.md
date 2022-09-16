@@ -18,7 +18,7 @@ As part of this framework, a remediation pipeline, [Muliwai](https://github.com/
 Leishmaniasis is a neglected parasitic disease affecting remote and poor areas. Thus, many potential treatments for leishmaniasis are unavailable, unaffordable, or lead to adverse effects for the majority of affected inviduals. Due to the limited research and development resources allocated to neglected diseases, drug repurposing is an attractive and cost-effective method for developing new treatments.
 Here, we develop the first drug repurposing model for leishmaniasis based on Hyperbolic Graph Neural Networks (HGNNs).
 
-<!-- {{< rawhtml >}}
+{{< rawhtml >}}
 <p style="text-align:center;">
 <img src="/images/projects/hgnn-leishmaniasis.png" width="75%"/>
 </p>
@@ -30,7 +30,7 @@ By utilizing the interactions of candidate drugs with other parasites, we create
 By comparing our HGNN model against standard GNN architectures in Euclidean space, we found that embedding protein-drug interaction networks using hyperbolic geometry is advantageous for drug repurposing.
 We also see a significant performance gain for our approach over machine learning models that rely on protein or drug features alone.
 
-Finally, we use our model to predict protein-drug interactions that could be exploited, either as a booster to increase the therapeutic effect of an existing anti-leishmaniasis drug, or as a novel chemotherapeutic treatment against the disease. -->
+Finally, we use our model to predict protein-drug interactions that could be exploited, either as a booster to increase the therapeutic effect of an existing anti-leishmaniasis drug, or as a novel chemotherapeutic treatment against the disease.
 
 ---
 
