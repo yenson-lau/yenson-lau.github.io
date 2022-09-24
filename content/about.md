@@ -15,6 +15,6 @@ Until recently I was at [Layer 6 AI](https://layer6.ai/), developing models for 
 I am currently spending a lot of time learning about large language models (LLMs) in natural language processing, as well as the challenging tasks that these models are bringing into reach.
 I am also doing a side project on evaluating LLMs when [when their pretraining is subject to PII remediation](../projects/#pii-remediation-evaluation-for-llm-pretraining), and am eager to work with these models further at my next role, ideally in an applied research setting.
 
-Outside of work, I love to travel and read. My most recent recommendations are [Range: Why Generalists Triumph in a Specialized World](https://davidepstein.com/the-range/) by David Epstein, and [Awareness](https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373) by Anthony de Mello.
+Outside of work, I love to travel and read, gravitating towards works that challenge existing worldviews in a grounded and constructive manner. I highly recommend [Range: Why Generalists Triumph in a Specialized World](https://davidepstein.com/the-range/) by David Epstein, and [Awareness](https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373) by Anthony de Mello.
 
 For inquiries and collaboration, please reach out to me on [LinkedIn](https://www.linkedin.com/in/yensonlau/). 🙂
