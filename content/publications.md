@@ -7,7 +7,7 @@ author = "Yenson Lau"
 +++
 
 
-* Amy Sui, Junfeng Wang, {{< underline "Yenson Lau" >}}, Brendan Ross, Jesse Cresswell. **Find Your Friends: Personalized Federated Learning with the Right Collaborators**. In submission.
+* Amy Sui, Junfeng Wang, {{< underline "Yenson Lau" >}}, Brendan Ross, Jesse Cresswell. **Find Your Friends: Personalized Federated Learning with the Right Collaborators**. In *International Workshop on Federated Learning, NeurIPS 2022*.
 
 * {{< underline "Yenson Lau" >}}, Saba Zuberi, Jahir Gutierrez. **Drug Repurposing for Leishmaniasis Major with Hyperbolic Graph Neural Networks**. In submission.
 
