@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
   info = "ML Research and Engineering, NLP"
   description = "Yenson's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "/images/avatar.jpg"
+  avatarurl = "/images/avatar.png"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "/img/favicon-32x32.png"
