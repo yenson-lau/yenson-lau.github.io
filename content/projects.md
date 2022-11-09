@@ -13,10 +13,9 @@ As part of this framework, a remediation pipeline, [Muliwai](https://github.com/
 
 ---
 
-## Drug Repurposing for Leishmaniasis Using a GNN Approach
+## Drug repurposing for Leishmaniasis with Hyperbolic Graph Neural Networks
 
-Leishmaniasis is a neglected parasitic disease affecting remote and poor areas. Thus, many potential treatments for leishmaniasis are unavailable, unaffordable, or lead to adverse effects for the majority of affected inviduals. Due to the limited research and development resources allocated to neglected diseases, drug repurposing is an attractive and cost-effective method for developing new treatments.
-Here, we develop the first drug repurposing model for leishmaniasis based on Hyperbolic Graph Neural Networks (HGNNs).
+Leishmaniasis is a neglected parasitic disease affecting remote and poor areas. As limited resources are allocated to combat neglected diseases, drug repurposing is an attractive and cost-effective method for developing new treatments. Here, we develop the first drug repurposing model for Leishmaniasis based on Hyperbolic Graph Neural Networks (HGNN-DR).
 
 {{< rawhtml >}}
 <p style="text-align:center;">
@@ -24,11 +23,9 @@ Here, we develop the first drug repurposing model for leishmaniasis based on Hyp
 </p>
 {{< /rawhtml >}}
 
-Our model leverages protein-drug interactions across *Leishmania major* and two other eukaryotic parasites, *Plasmodium falciparum* and *Trypanosoma brucei*.
-By utilizing the interactions of candidate drugs with other parasites, we create a larger training dataset and allow our model to learn better drug representations.
+HGNN-DR utilizes protein-drug interaction networks across _Leishmania major_ combined with two other eukaryotic parasites, _Plasmodium falciparum_ and _Trypanosoma brucei_. This effectively allows us to create a larger training dataset and allow our model to learn better drug representations.
 
-By comparing our HGNN model against standard GNN architectures in Euclidean space, we found that embedding protein-drug interaction networks using hyperbolic geometry is advantageous for drug repurposing.
-We also see a significant performance gain for our approach over machine learning models that rely on protein or drug features alone.
+HGNN-DR sees a significant performance gain over feature-based models, which do not explicitly model protein-drug network information. Compared to standard Euclidean GNN architectures (EGNN), we find that embedding protein-drug interactions using hyperbolic geometry is advantageous for drug repurposing.
 
 Finally, we use our model to predict protein-drug interactions that could be exploited, either as a booster to increase the therapeutic effect of an existing anti-leishmaniasis drug, or as a novel chemotherapeutic treatment against the disease.
 
