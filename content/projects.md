@@ -13,9 +13,9 @@ As part of this framework, a remediation pipeline, [Muliwai](https://github.com/
 
 ---
 
-## Drug repurposing for Leishmaniasis with Hyperbolic Graph Neural Networks
+## Drug repurposing for Leishmaniasis with Hyperbolic Graph Neural Networks (HGNN-DR)
 
-Leishmaniasis is a neglected parasitic disease affecting remote and poor areas. As limited resources are allocated to combat neglected diseases, drug repurposing is an attractive and cost-effective method for developing new treatments. Here, we develop the first drug repurposing model for Leishmaniasis based on Hyperbolic Graph Neural Networks (HGNN-DR).
+Leishmaniasis is a neglected parasitic disease affecting remote and poor tropical regions. As limited resources are allocated to combat neglected diseases, drug repurposing is an attractive and cost-effective method for developing new treatments. Here, we develop the first drug repurposing model for Leishmaniasis based on Hyperbolic Graph Neural Networks (HGNN-DR).
 
 {{< rawhtml >}}
 <p style="text-align:center;">
